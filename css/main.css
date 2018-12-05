@@ -18,8 +18,8 @@ html {
   width: 100%;
   display: flex;
   position: absolute;
-  top: 0rem;
-  left: 0rem;
+  top: 0;
+  left: 0;
   justify-content: center;
 }
 
